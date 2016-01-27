@@ -1,0 +1,36 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2016 11:12:41
+   Source : E:\Work\UmBristol\UmBristol.CI\UmBristol.CI.Tests\bin\
+     Dest : E:\Work\UmBristol\UmBristol.CI\UmBristol.CI.Tests\App_Data\NuGetBackup\20160127-111241\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	E:\Work\UmBristol\UmBristol.CI\UmBristol.CI.Tests\bin\
+	  New Dir          5	E:\Work\UmBristol\UmBristol.CI\UmBristol.CI.Tests\bin\Debug\
+	    New File  		    4096	UmBristol.CI.dll  0%  100%  
+	    New File  		    7680	UmBristol.CI.pdb  0%  100%  
+	    New File  		    4608	UmBristol.CI.Tests.dll  0%  100%  
+	    New File  		    1915	UmBristol.CI.Tests.dll.config  0%  100%  
+	    New File  		   11776	UmBristol.CI.Tests.pdb  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         1         0         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :    29.3 k    29.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             3759375 Bytes/sec.
+   Speed :             215.113 MegaBytes/min.
+   Ended : 27 January 2016 11:12:41
+

@@ -1,0 +1,1 @@
+msbuild Crocodile.csproj /P:DeployOnBuild=True /P:PublishProfile=Release /P:Password=gojBBrmHSgnEzFhQgrbDsXBebXiYLKLvxW70ruhBdroBvXsF4slhJ0e1EWMP /P:Platform="AnyCPU" /P:AllowUntrustedCertificate=True /P:_DestinationType=AzureWebSite /P:VisualStudioVersion=12.0
