@@ -364,6 +364,7 @@
     <Content Include="Views\Partials\BottomNavigation.cshtml" />
     <Content Include="Views\Partials\Grid\Fanoe.cshtml" />
     <Content Include="Views\Partials\MainNavigation.cshtml" />
+    <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
