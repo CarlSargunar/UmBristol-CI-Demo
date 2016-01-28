@@ -1,8 +1,6 @@
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\UmBristol.CI.dll.config
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\UmBristol.CI.dll
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\UmBristol.CI.pdb
-E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.dll
-E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.pdb
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\AutoMapper.dll
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\AutoMapper.Net4.dll
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\businesslogic.dll
@@ -105,3 +103,5 @@ E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\WebMatrix.Data.xml
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\bin\WebMatrix.WebData.xml
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.csproj.App.config
 E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.csprojResolveAssemblyReference.cache
+E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.dll
+E:\Work\UmBristol\UmBristol.CI\UmBristol.CI\obj\Debug\UmBristol.CI.pdb
