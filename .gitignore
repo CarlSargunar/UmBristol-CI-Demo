@@ -21,3 +21,6 @@ UmBristol.CI/App_Data/cache/
 UmBristol.CI.Library/App_Data/NuGetBackup/
 UmBristol.CI/App_Data/NuGetBackup/
 UmBristol.CI/App_Data/TEMP/
+UmBristol.CI/App_Data/Logs/
+UmBristol.CI/bin/
+UmBristol.CI/obj/
