@@ -288,6 +288,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\UmBristol.CI.Library\UmBristol.CI.Library.csproj">
+      <Project>{f445ab93-f64d-4e1d-803b-aaa41b1096bc}</Project>
+      <Name>UmBristol.CI.Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UmBristol.CI\UmBristol.CI.csproj">
       <Project>{863490EC-C8D8-44D6-8C8A-F2DCB37885CB}</Project>
       <Name>UmBristol.CI</Name>
