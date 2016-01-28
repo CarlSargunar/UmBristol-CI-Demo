@@ -54,7 +54,7 @@ namespace UmBristol.CI.Library.SurfaceControllers
 
             TempData[TempDataKeys.FormSubmitted] = true;
             TempData[TempDataKeys.ThankYouMessage] = "Thank you for your enquiry. A Hitachi Capital Vehicle Solutions representative will respond to you within 4 working hours (applies 9.00AM – 5.30PM, Monday to Friday).";
-            return RedirectToCurrentUmbracoPage()
+            return RedirectToCurrentUmbracoPage();
         }
         
     }
